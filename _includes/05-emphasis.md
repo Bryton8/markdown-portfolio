@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I race mountain bikes.*
+_I have been programming for 2 years, I am hoping c++ is easer that java_
